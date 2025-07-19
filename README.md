@@ -27,6 +27,7 @@ pytest
 ## Автор
 
 Kodland
+Богдан
 Dennis Dekker
 Никита Кривцов
 Марк Комаров
