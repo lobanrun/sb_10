@@ -17,6 +17,6 @@ def test_password_characters():
 """
 
 def test_two_password():
-    password1 = generate_password(15)
-    password2 = generate_password(15)
-    assert password1 != password2
+    password_1 = generate_password(15)
+    password_2 = generate_password(15)
+    assert password_1 != password_2
