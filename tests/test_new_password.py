@@ -15,3 +15,8 @@ def test_password_characters():
 Тест, что длина пароля соответствует заданной
 Тест, что два сгенерированных подряд пароля различаются
 """
+
+def test_two_password():
+    password_1 = generate_password(15)
+    password_2 = generate_password(15)
+    assert password_1 != password_2
