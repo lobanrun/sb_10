@@ -27,6 +27,7 @@ pytest
 ## Автор
 
 Kodland
+Lyova2012
 Богдан
 Dennis Dekker
 Никита Кривцов
@@ -34,3 +35,5 @@ Dennis Dekker
 Никита Лобанов
 Мельник Ксения
 Rustam Mamedov 
+Никита Беляков
+Руслан Петров
